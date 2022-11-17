@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TouringApp</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="navigation_drawer_expand">Expand menu</string>
+    <string name="navigation_drawer_collapse">Collapse menu</string>
+    <string name="yes_choice">Yes</string>
+    <string name="no_choice">No</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

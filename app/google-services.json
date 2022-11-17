@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "666619842136",
+    "project_id": "expensetravelapp",
+    "storage_bucket": "expensetravelapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666619842136:android:61f485c09559295adec42d",
+        "android_client_info": {
+          "package_name": "com.example.touringapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666619842136-tvcukdl13ei9strut8ke9919eea710lh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.touringapp",
+            "certificate_hash": "4f4d924bc8ae66920ff82cd336aa78c06aa942f2"
+          }
+        },
+        {
+          "client_id": "666619842136-mb8epmdnrakh5uet2au9pifogbmsjacv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgR-zQwyeJfS31BTd6BY-70IwldM-P8so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666619842136-mb8epmdnrakh5uet2au9pifogbmsjacv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

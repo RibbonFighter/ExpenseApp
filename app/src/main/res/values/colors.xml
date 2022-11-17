@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#BC0B35</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="toolbar_color">#EDC120</color>
+    <color name="nav_header">#B6D504</color>
+
+    <color name="dashboard_color">#B5D5A804</color>
+    <color name="income_color">#9AD5C004</color>
+    <color name="expense_color">#CED57704</color>
+
+    <color name="date_color">#95022EB3</color>
+    <color name="expense_amount">#F0D15E06</color>
+</resources>
